@@ -7,4 +7,7 @@ Install python dependencies
 pip install -r requirements.txt
 ```
 
-Refer to `run_dga_bot.py` for usage examples.
+Run sample script for example usage
+```
+python run_dga_bot.py
+```
